@@ -5,15 +5,9 @@ export default (props) => (
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta charSet="utf-8" />
     <title>Verbatim</title>
-    <meta
-      name="description"
-      content="Tata Bojs je česká alternativní hudební skupina, vznikla v roce 1988. Zakládajícími členy jsou Mardoša a Milan Cais, ve stálé sestavě hrají i Vladimír Bár, Dušan Neuwerth a Jiří Hradil. Jejich Nanoalbum získalo v roce 2004 čtyři Zlaté anděly."
-    />
+    <meta name="description" content="Verbatim" />
     <meta property="og:title" content="Verbatim" />
-    <meta
-      property="og:description"
-      content="Tata Bojs je česká alternativní hudební skupina, vznikla v roce 1988. Zakládajícími členy jsou Mardoša a Milan Cais, ve stálé sestavě hrají i Vladimír Bár, Dušan Neuwerth a Jiří Hradil. Jejich Nanoalbum získalo v roce 2004 čtyři Zlaté anděly."
-    />
+    <meta property="og:description" content="Verbatim" />
     <meta property="og:image" content="/static/og_image.jpg" />
     <meta name="apple-mobile-web-app-status-bar-style" content="default" />
     <meta property="og:type" content="website" />
