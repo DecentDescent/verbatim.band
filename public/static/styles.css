@@ -9,3 +9,8 @@ body {
     rgba(238, 13, 13, 1) 100%
   );
 }
+
+#__next {
+  width: 100vw;
+  height: 100vh;
+}

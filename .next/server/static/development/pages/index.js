@@ -143,7 +143,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   }
 }, "Verbatim"), __jsx("meta", {
   name: "description",
-  content: "Tata Bojs je \u010Desk\xE1 alternativn\xED hudebn\xED skupina, vznikla v roce 1988. Zakl\xE1daj\xEDc\xEDmi \u010Dleny jsou Mardo\u0161a a Milan Cais, ve st\xE1l\xE9 sestav\u011B hraj\xED i Vladim\xEDr B\xE1r, Du\u0161an Neuwerth a Ji\u0159\xED Hradil. Jejich Nanoalbum z\xEDskalo v roce 2004 \u010Dty\u0159i Zlat\xE9 and\u011Bly.",
+  content: "Verbatim",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
@@ -156,16 +156,16 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 12,
+    lineNumber: 9,
     columnNumber: 5
   }
 }), __jsx("meta", {
   property: "og:description",
-  content: "Tata Bojs je \u010Desk\xE1 alternativn\xED hudebn\xED skupina, vznikla v roce 1988. Zakl\xE1daj\xEDc\xEDmi \u010Dleny jsou Mardo\u0161a a Milan Cais, ve st\xE1l\xE9 sestav\u011B hraj\xED i Vladim\xEDr B\xE1r, Du\u0161an Neuwerth a Ji\u0159\xED Hradil. Jejich Nanoalbum z\xEDskalo v roce 2004 \u010Dty\u0159i Zlat\xE9 and\u011Bly.",
+  content: "Verbatim",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 13,
+    lineNumber: 10,
     columnNumber: 5
   }
 }), __jsx("meta", {
@@ -174,7 +174,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 17,
+    lineNumber: 11,
     columnNumber: 5
   }
 }), __jsx("meta", {
@@ -183,7 +183,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 18,
+    lineNumber: 12,
     columnNumber: 5
   }
 }), __jsx("meta", {
@@ -192,7 +192,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 19,
+    lineNumber: 13,
     columnNumber: 5
   }
 }), __jsx("link", {
@@ -202,7 +202,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 20,
+    lineNumber: 14,
     columnNumber: 5
   }
 }), __jsx("link", {
@@ -213,7 +213,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 25,
+    lineNumber: 19,
     columnNumber: 5
   }
 }), __jsx("link", {
@@ -224,7 +224,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 31,
+    lineNumber: 25,
     columnNumber: 5
   }
 }), __jsx("link", {
@@ -233,7 +233,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 37,
+    lineNumber: 31,
     columnNumber: 5
   }
 }), __jsx("link", {
@@ -243,7 +243,7 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 38,
+    lineNumber: 32,
     columnNumber: 5
   }
 }), __jsx("link", {
@@ -252,16 +252,16 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 43,
+    lineNumber: 37,
     columnNumber: 5
   }
 }), __jsx("meta", {
   name: "msapplication-TileColor",
-  content: "#2b5797",
+  content: "#e20e12",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 44,
+    lineNumber: 38,
     columnNumber: 5
   }
 }), __jsx("meta", {
@@ -270,16 +270,16 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 45,
+    lineNumber: 39,
     columnNumber: 5
   }
 }), __jsx("meta", {
   name: "theme-color",
-  content: "#ffffff",
+  content: "#e20e12",
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 49,
+    lineNumber: 43,
     columnNumber: 5
   }
 }), __jsx("link", {
@@ -289,10 +289,24 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 50,
+    lineNumber: 44,
     columnNumber: 5
   }
 })));
+
+/***/ }),
+
+/***/ "./pages/Page.module.scss":
+/*!********************************!*\
+  !*** ./pages/Page.module.scss ***!
+  \********************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+// Exports
+module.exports = {
+	"logo": "Page_logo__1OlPy"
+};
 
 /***/ }),
 
@@ -309,9 +323,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "react");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _components_Head__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Head */ "./components/Head/index.tsx");
+/* harmony import */ var _Page_module_scss__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Page.module.scss */ "./pages/Page.module.scss");
+/* harmony import */ var _Page_module_scss__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_Page_module_scss__WEBPACK_IMPORTED_MODULE_2__);
 var _jsxFileName = "/Users/janradl/Devel/verbatim.band/pages/index.tsx";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
+
 
 function Index() {
   return __jsx(react__WEBPACK_IMPORTED_MODULE_0___default.a.Fragment, null, __jsx(_components_Head__WEBPACK_IMPORTED_MODULE_1__["default"], {
@@ -321,7 +338,62 @@ function Index() {
       lineNumber: 6,
       columnNumber: 7
     }
-  }));
+  }), __jsx("div", {
+    className: _Page_module_scss__WEBPACK_IMPORTED_MODULE_2___default.a["logo"],
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 7,
+      columnNumber: 7
+    }
+  }, __jsx("svg", {
+    viewBox: "0 0 249 321",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 8,
+      columnNumber: 9
+    }
+  }, __jsx("linearGradient", {
+    id: "a",
+    x1: "80.003014%",
+    x2: "34.698774%",
+    y1: ".137247%",
+    y2: "50%",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9,
+      columnNumber: 11
+    }
+  }, __jsx("stop", {
+    offset: "0",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16,
+      columnNumber: 13
+    }
+  }), __jsx("stop", {
+    offset: "1",
+    stopColor: "#262626",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17,
+      columnNumber: 13
+    }
+  })), __jsx("path", {
+    d: "m260.899084 438.685891 119.706269-313.837281c1.320289-2.644697-.880193-4.84861-3.520773-4.84861h-240.732827c-3.080676 0-5.281159 2.203913-3.96087 4.84861l120.586462 313.837281c1.32029 3.085479 6.601449 3.085479 7.921739 0zm-4.179872-140.685891-44.719212-123h89z",
+    fill: "url(#a)",
+    transform: "translate(-132 -120)",
+    __self: this,
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19,
+      columnNumber: 11
+    }
+  }))));
 }
 
 /***/ }),

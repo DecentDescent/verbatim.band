@@ -35,12 +35,12 @@ export default (props) => (
       color="#2e9dc6"
     />
     <link rel="shortcut icon" href="/static/favicon/favicon.ico" />
-    <meta name="msapplication-TileColor" content="#2b5797" />
+    <meta name="msapplication-TileColor" content="#e20e12" />
     <meta
       name="msapplication-config"
       content="/static/favicon/browserconfig.xml"
     />
-    <meta name="theme-color" content="#ffffff" />
+    <meta name="theme-color" content="#e20e12" />
     <link rel="stylesheet" type="text/css" href="/static/styles.css" />
   </Head>
 );
