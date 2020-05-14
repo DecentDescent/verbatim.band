@@ -1,0 +1,33 @@
+{
+  "name": "verbatim.band",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DecentDescent/verbatim.band.git"
+  },
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "next": "9.3.5",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-in-viewport": "^1.0.0-alpha.11",
+    "react-reveal": "^1.2.2",
+    "react-visibility-sensor": "^5.1.1",
+    "sass": "^1.26.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@types/node": "^13.13.4",
+    "@types/react": "^16.9.34",
+    "babel-jest": "^25.4.0",
+    "jest": "^25.4.0",
+    "typescript": "^3.8.3"
+  }
+}

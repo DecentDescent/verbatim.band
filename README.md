@@ -1,2 +1,1 @@
-# verbatim.band
-Website of our band
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
