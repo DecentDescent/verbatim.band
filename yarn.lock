@@ -2090,10 +2090,10 @@ caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001043:
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001058.tgz#9f8a318389e28f060272274ac93a661d17f8bf0d"
   integrity sha512-UiRZmBYd1HdVVdFKy7PuLVx9e2NS7SMyx7QpWvFjiklYrLJKpLd19cRnRNqlw4zYa7vVejS3c8JUVobX241zHQ==
 
-caniuse-lite@^1.0.30001058:
-  version "1.0.30001107"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001107.tgz#809360df7a5b3458f627aa46b0f6ed6d5239da9a"
-  integrity sha512-86rCH+G8onCmdN4VZzJet5uPELII59cUzDphko3thQFgAQG1RNa+sVLDoALIhRYmflo5iSIzWY3vu1XTWtNMQQ==
+caniuse-lite@^1.0.30001017:
+  version "1.0.30001230"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001230.tgz#8135c57459854b2240b57a4a6786044bdc5a9f71"
+  integrity sha512-5yBd5nWCBS+jWKTcHOzXwo5xzcj4ePE/yjtkZyUV1BTUmrBaA9MRGC+e7mxnqXSA90CmCA8L3eKLaSUkt099IQ==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -7467,9 +7467,9 @@ write-file-atomic@^3.0.0:
     typedarray-to-buffer "^3.1.5"
 
 ws@^7.0.0:
-  version "7.3.0"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-7.3.0.tgz#4b2f7f219b3d3737bc1a2fbf145d825b94d38ffd"
-  integrity sha512-iFtXzngZVXPGgpTlP1rBqsUK82p9tKqsWRPg5L56egiljujJT3vGAYnHANvFxBieXrTFavhzhxW52jnaWV+w2w==
+  version "7.4.6"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-7.4.6.tgz#5654ca8ecdeee47c33a9a4bf6d28e2be2980377c"
+  integrity sha512-YmhHDO4MzaDLB+M9ym/mDA5z0naX8j7SIlT8f8z+I0VtzsRbekxEutHSme7NPS2qE8StCYQNUnfWdXta/Yu85A==
 
 xml-name-validator@^3.0.0:
   version "3.0.0"
